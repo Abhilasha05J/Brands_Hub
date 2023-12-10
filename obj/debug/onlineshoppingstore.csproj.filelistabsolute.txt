@@ -1,0 +1,174 @@
+C:\Users\91626\source\repos\onlineshoppingstore\bin\onlineshoppingstore.dll.config
+C:\Users\91626\source\repos\onlineshoppingstore\bin\onlineshoppingstore.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\onlineshoppingstore.pdb
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\csc.exe
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\csc.exe.config
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\csc.rsp
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\csi.exe
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\csi.exe.config
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\csi.rsp
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.AppContext.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Console.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.IO.Compression.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Net.Http.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.ValueTuple.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\vbc.exe
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\vbc.exe.config
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\vbc.rsp
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\VBCSCompiler.exe
+C:\Users\91626\source\repos\onlineshoppingstore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\91626\source\repos\onlineshoppingstore\bin\Antlr3.Runtime.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\Newtonsoft.Json.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.Helpers.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.Mvc.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.Optimization.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.Razor.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.WebPages.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.WebPages.Razor.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\WebGrease.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.Helpers.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.Mvc.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.Optimization.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.Razor.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.WebPages.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\System.Web.WebPages.Razor.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\Newtonsoft.Json.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\Antlr3.Runtime.pdb
+C:\Users\91626\source\repos\onlineshoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\91626\source\repos\onlineshoppingstore\obj\Debug\onlineshoppingstore.csproj.CoreCompileInputs.cache
+C:\Users\91626\source\repos\onlineshoppingstore\obj\Debug\onlineshoppingstore.csproj.CopyComplete
+C:\Users\91626\source\repos\onlineshoppingstore\obj\Debug\onlineshoppingstore.dll
+C:\Users\91626\source\repos\onlineshoppingstore\obj\Debug\onlineshoppingstore.pdb
+C:\Users\91626\source\repos\onlineshoppingstore\bin\EntityFramework.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\EntityFramework.SqlServer.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\EntityFramework.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\EntityFramework.SqlServer.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\PagedList.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\PagedList.Mvc.dll
+C:\Users\91626\source\repos\onlineshoppingstore\bin\PagedList.xml
+C:\Users\91626\source\repos\onlineshoppingstore\bin\PagedList.Mvc.xml
+C:\Users\91626\source\repos\onlineshoppingstore\obj\Debug\onlineshoppingstore.csprojAssemblyReference.cache
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\onlineshoppingstore.dll.config
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\onlineshoppingstore.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\onlineshoppingstore.pdb
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\csc.exe
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\csc.exe.config
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\csc.rsp
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\csi.exe
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\csi.exe.config
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\csi.rsp
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.AppContext.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Collections.Immutable.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Console.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Globalization.Calendars.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.IO.Compression.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.IO.FileSystem.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Net.Http.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Net.Sockets.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.ValueTuple.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Xml.XPath.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\vbc.exe
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\vbc.exe.config
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\vbc.rsp
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\VBCSCompiler.exe
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\roslyn\VBCSCompiler.exe.config
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\Antlr3.Runtime.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\EntityFramework.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\EntityFramework.SqlServer.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\Microsoft.Web.Infrastructure.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\Newtonsoft.Json.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\PagedList.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\PagedList.Mvc.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.Helpers.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.Mvc.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.Optimization.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.Razor.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.WebPages.Deployment.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.WebPages.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.WebPages.Razor.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\WebGrease.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\EntityFramework.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\EntityFramework.SqlServer.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\PagedList.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\PagedList.Mvc.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.Helpers.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.Mvc.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.Optimization.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.Razor.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.WebPages.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.WebPages.Deployment.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\System.Web.WebPages.Razor.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\Newtonsoft.Json.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\Antlr3.Runtime.pdb
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\obj\Debug\onlineshoppingstore.csprojAssemblyReference.cache
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\obj\Debug\onlineshoppingstore.csproj.CoreCompileInputs.cache
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\obj\Debug\onlineshoppingstore.csproj.CopyComplete
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\obj\Debug\onlineshoppingstore.dll
+D:\BrandsHubComplete ProjectFile\onlineshoppingstore\obj\Debug\onlineshoppingstore.pdb

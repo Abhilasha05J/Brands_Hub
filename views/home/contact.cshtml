@@ -1,0 +1,16 @@
+﻿@using onlineshoppingstore.DAL;
+@using onlineshoppingstore.Models.Home
+
+@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+<div class="nav-menus">
+    <ul class="nav nav-pills">
+        <li><a style="border-radius:initial;" href="@Url.Action("Index","Home")">Home</a></li>
+        <li class="active"><a style="border-radius:initial;" href="@Url.Action("Contact","Home")">Contact Us</a></li>
+    </ul>
+    </div>
+
+    <a href="#"><i class="fa fa-phone" aria-hidden="true"> </i></a>
